@@ -1,0 +1,26 @@
+{
+   "manifest_version": 3,
+   "author": "Me iq56",
+   "name": "iq Youtube Premium",
+   "default_locale": "ar",
+   "version": "3.0",
+   "description": "Fake Youtube Premium Discord  Server [https://discord.gg/hTt5x2ztUV]",
+   "action": {
+      "default_icon": "icons/icon128.png",
+      "default_title": "iq Youtube Premium"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "homepage_url": "https://github.com/Meiq56",
+   "content_scripts": [ {
+      "exclude_matches": [ "*://*.music.youtube.com/*" ],
+      "js": [ "anu.js" ],
+      "matches": [ "*://youtube.com/*", "*://www.youtube.com/*", "*://m.youtube.com/*" ]
+   } ],
+   "host_permissions": [ "*://*.youtube.com/*" ],
+   "icons": {
+     "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+   }
+}

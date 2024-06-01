@@ -1,0 +1,41 @@
+{
+    "extensionName": {
+       "message": "IQ Youtube Premium"
+    },
+    "extensionNameBeta": {
+       "message": "IQ Youtube Premium"
+    },
+    "legendSettings": {
+       "message": "Settings"
+    },
+    "linkChangelog": {
+       "message": "Change Log"
+    },
+    "linkDonate": {
+       "message": "Disabled by Owne"
+    },
+    "linkFAQ": {
+       "message": "FAQ"
+    },
+    "linkHelp": {
+       "message": "Help"
+    },
+    "linkWebsite": {
+       "message": "Website"
+    },
+    "textDeveloper": {
+       "message": "by Me iq56"
+    },
+    "textLikesDisabled": {
+       "message": "Disabled by Owner"
+    },
+    "textTempUnavailable": {
+       "message": "Temporarily Unavailable"
+    },
+    "textUpdate": {
+       "message": "Update to"
+    },
+    "whatsnew": {
+       "message": "What's new"
+    }
+ }
