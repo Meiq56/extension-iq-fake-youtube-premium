@@ -13,7 +13,5 @@
 5. click button "Load unpacked" then search your location clone or location extract this repository
 6. tehn Select Folder in popup explorer window
 
-# Server Discord 󠁛󠀣󠁢󠀲󠀹󠀰󠀹󠀰󠀬󠀣󠀸󠀳󠁣󠀷󠀸󠁤󠁝 https://discord.gg/k5zFTFjEhU And my friend's server https://discord.gg/PBPQgvRNnj
-
-Just do the same thing
-# extension-iq-fake-youtube-premium
+ Server Discord 󠁛󠀣󠁢󠀲󠀹󠀰󠀹󠀰󠀬󠀣󠀸󠀳󠁣󠀷󠀸󠁤󠁝 https://discord.gg/k5zFTFjEhU
+ And my friend's server https://discord.gg/PBPQgvRNnj
