@@ -3,8 +3,10 @@
 ![fake-youtube.premium](./docs/screenshot1.png)
 
 ##  Download 
- -  extension-iq-fake-youtube-premium : [Download ZIP](https://github.com/Meiq56/extension-iq-fake-youtube-premium/archive/refs/heads/main.zip)
+ #  extension-iq-fake-youtube-premium : [Download ZIP](https://github.com/Meiq56/extension-iq-fake-youtube-premium/archive/refs/heads/main.zip)
 
+How to add a tool extension-fake 
+ youtube-premium Go to chrome://extensions/ 2 Go to developer tools then turn on developer mode 3 Unzip the zip file 4 click button "Load unpacked", then search your location clone or location extract this repository Then just select the file
 
 # Server Discord 󠁛󠀣󠁢󠀲󠀹󠀰󠀹󠀰󠀬󠀣󠀸󠀳󠁣󠀷󠀸󠁤󠁝 https://discord.gg/k5zFTFjEhU And my friend's server https://discord.gg/PBPQgvRNnj
 
