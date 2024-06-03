@@ -5,7 +5,7 @@
 ##  Download 
  #  extension-iq-fake-youtube-premium : [Download ZIP](https://github.com/Meiq56/extension-iq-fake-youtube-premium/archive/refs/heads/main.zip)
 
-# HOW TO INSTALL
+# How to install
 1. open chrome brave or etc browser from chromium
 2. Go to developer tools then turn on "developer mode"
 3. click button "Load unpacked" then search your location clone or location extract this repository
