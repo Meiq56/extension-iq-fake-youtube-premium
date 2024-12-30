@@ -12,4 +12,3 @@
 4. tehn Select Folder in popup explorer 
 
  Server Discord 󠁛󠀣󠁢󠀲󠀹󠀰󠀹󠀰󠀬󠀣󠀸󠀳󠁣󠀷󠀸󠁤󠁝 https://discord.gg/k5zFTFjEhU
- And my friend's server https://discord.gg/PBPQgvRNnj
